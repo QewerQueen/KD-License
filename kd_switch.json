@@ -1,4 +1,4 @@
 {
-  "payload": "{\"allowed_builds\":[],\"enabled\":true,\"enforcement\":false,\"expires\":\"2027-11-24T14:22:13.546701Z\",\"master_hash\":\"9dca22678aff53a5339db052d253e6f42b5d70bd7ad7ceb16b645da375537947\"}",
-  "signature": "vY88oz1z7WtC/d1zY4eMw7nt0dcCZ7vb5L7078f6Q6PaDs3Pm8jcDgiyIHiMylaC6uKneNDDhFx4pwIdTRB+oSCBKUu4ywes62695ZcVECct/792tqEqU9MsqGN2AIz3z2uUX7GrZ9UMwGqo6JvJmo0FhLp+qc0WzAcWnBLqzC2xQsagPX2deX37ZvP4X0wqEM2ThrzpzaBj51n0rCj/xo66ViSHfDjqnmRBYu6/wQM/0J1zrc9PTmvQB7UpM3Z/Mcocjh0Ang/IceTVJNr7spPxtYITdilq7AgJE5jllM1u0H+llzF695hOLQYFswyssT+lXj6uGpyKYGwxiy+stw=="
+  "payload": "{\"allowed_builds\":[\"00c6e0c9b93f9bfc1dd4258816b600cbf59c16b278e32b4fda392b07b8f3a3dc\",\"084cb1269b44ddf06b7a6d1113ddebd0eaf8328e577a8606a4b6c70d7005b908\",\"1e092b88391d960efe0dc9098686bb201126e66cab837fe38120b780c7953478\"],\"enabled\":true,\"enforcement\":false,\"expires\":\"2027-11-24T14:22:13.546701Z\",\"master_hash\":\"9dca22678aff53a5339db052d253e6f42b5d70bd7ad7ceb16b645da375537947\"}",
+  "signature": "RLdZMxEnoK0m+lroyexGSVY+0G0ULV8y1DDtvuKTJHKNUkWViphp5T3jj/faHxkNanHmIqVOO4vueD3pPq0pPn9R8opl+c7mMtbGLcQx6eZdnkZwe92LJRgt9fQQjnYcJxppu6qRdtkjUzgZfgXT3+LLakTTjed6/jMAyw4LL4m2uCj3oxnUvASEK2NHV2Cbw2Uw1oSOn2PyVN5jXA73W6DXG15aufr9AVLn9CzPktfa0qEpy3WUTq4i5nna031avbq5iEYxaIh4P/RDNn0cI8mrdR4CFJKcrMn/G7QM2ylKn3uWxAJokpcqFk+ayi2gmmxufmVbEPEr5egI2UnEzA=="
 }
